@@ -1,0 +1,23 @@
+[
+  { "en": "Taipei", "zh": "臺北市", "type": "city" },
+  { "en": "NewTaipei", "zh": "新北市", "type": "city" },
+  { "en": "Taoyuan", "zh": "桃園市", "type": "city" },
+  { "en": "Taichung", "zh": "臺中市", "type": "city" },
+  { "en": "Tainan", "zh": "臺南市", "type": "city" },
+  { "en": "Kaohsiung", "zh": "高雄市", "type": "city" },
+  { "en": "Keelung", "zh": "基隆市", "type": "city" },
+  { "en": "Hsinchu", "zh": "新竹市", "type": "city" },
+  { "en": "Chiayi", "zh": "嘉義市", "type": "city" },
+  { "en": "HsinchuCounty", "zh": "新竹縣", "type": "county" },
+  { "en": "MiaoliCounty", "zh": "苗栗縣", "type": "county" },
+  { "en": "ChanghuaCounty", "zh": "彰化縣", "type": "county" },
+  { "en": "YunlinCounty", "zh": "雲林縣", "type": "county" },
+  { "en": "ChiayiCounty", "zh": "嘉義縣", "type": "county" },
+  { "en": "PingtungCounty", "zh": "屏東縣", "type": "county" },
+  { "en": "YilanCounty", "zh": "宜蘭縣", "type": "county" },
+  { "en": "HualienCounty", "zh": "花蓮縣", "type": "county" },
+  { "en": "TaitungCounty", "zh": "臺東縣", "type": "county" },
+  { "en": "KinmenCounty", "zh": "金門縣", "type": "county" },
+  { "en": "PenghuCounty", "zh": "澎湖縣", "type": "county" },
+  { "en": "LienchiangCounty", "zh": "連江縣", "type": "county" }
+]
