@@ -5,7 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 First, clone the repository using the terminal with git:
 ```
 git clone https://github.com/moustafacheng/taiwan-scenic-spots.git
-
 ```
 then, in its directory, install the required node modules:
 ```
