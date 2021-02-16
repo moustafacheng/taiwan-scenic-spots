@@ -94,7 +94,6 @@ export default function ScenicSpot(props) {
         }
       })();
     }
-    console.log(scenes);
   }, [pageNum]);
 
   useEffect(() => {
