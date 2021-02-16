@@ -20,7 +20,7 @@ npm start
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser, if its not opened automatically.
 
 
-The main page(http://localhost:3000) will not show any scenic spots. Click on the list on the left to start rendering.
+The main page will not show any scenic spots. Click on the list on the left to start rendering.
 
 
 
